@@ -1,7 +1,4 @@
 # Documentação backend - BackLucakinho
-
-esta é a minha doc
-
-autor= lucakinho
+https://replit.com/@luislucak2505/Trabalho-Back-412#src
 
 
